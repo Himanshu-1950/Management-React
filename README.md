@@ -45,6 +45,7 @@ Management-React
 
 cd frontend npm install npm start
 
+The Django admin is at http://127.0.0.1:8000/admin (use credentials: admin/admin123)
 The frontend will typically run on: http://localhost:3000
 
 3.  Setup Backend
