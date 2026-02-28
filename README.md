@@ -60,8 +60,9 @@ configure the necessary values.
 ## 🔧 Usage
 
 1.  Start both frontend and backend servers.
-2.  Open the browser at http://localhost:3000
-3.  Use the interface to manage records.
+2.  The Django admin is at http://127.0.0.1:8000/admin (use credentials: admin/admin123)
+3.  Open the browser at http://localhost:3000
+4.  Use the interface to manage records.
 
 ## 📝 Future Improvements
 
